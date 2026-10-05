@@ -1,0 +1,8 @@
+{
+  "updated_at": "2026-10-05 14:43:24",
+  "config_path": "/data_mirror/data_ce/null/0/com.tailscale.ipn/shared_prefs/unencrypted.xml",
+  "mode": "bypass",
+  "allowSelectedApps": false,
+  "total_disallowed": 212,
+  "package_list_file": "references/disallowed_apps.txt"
+}
